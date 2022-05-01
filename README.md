@@ -6,11 +6,14 @@
 - 🔭 I’m currently working on [Web Development](https://youtu.be/I7EGilCaAY4)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrao20/](https://github.com/dheerajrao20/)
-# Squid-Game-Webpage
+# Squid-Game-Webpage 
 Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix.
 
 Watch This on YouTube:
 <a href="https://www.youtube.com/watch?v=4EYwvAEZjOY" target="blank">https://www.youtube.com/watch?v=4EYwvAEZjOY</a> 
+
+See Deployed Webpage:
+<a href="https://dheerajrao20.github.io/Squid-Game-Webpage/">https://dheerajrao20.github.io/Squid-Game-Webpage/</a>
 <br>
 <h2 align="left"> Tech Stacks :</h2>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
